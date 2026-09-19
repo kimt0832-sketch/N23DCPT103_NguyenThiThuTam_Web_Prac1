@@ -1,8 +1,8 @@
 # [Thực hành 1] - Xây dựng Blog Page với Next.js & Tailwind CSS
 
 ## 📌 Thông tin sinh viên
-* **Họ và tên:** Nguyễn Thị Thu Tâm **
-* **Mã sinh viên:** N23DCPT103 **
+* **Họ và tên:** Nguyễn Thị Thu Tâm 
+* **Mã sinh viên:** N23DCPT103 
 
 ---
 
