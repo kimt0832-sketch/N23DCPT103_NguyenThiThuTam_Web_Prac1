@@ -30,7 +30,7 @@ export default async function BlogDetailPage({ params }) {
           </h1>
           <div className="prose text-gray-700 leading-relaxed space-y-4">
             <p>{post.body}</p>
-            <p>Hello</p>
+            <p>Hello!</p>
           </div>
         </article>
       </div>
